@@ -2,8 +2,7 @@
 
 **Front-end Developer**
 
-I'm Marta Isabelle, a web developer based in Brazil.
-I work as a front-end developer.
+I'm Marta Isabelle, a front-end developer passionate about creating modern, functional, and accessible web interfaces. I love turning ideas into amazing digital experiences using technologies like HTML, CSS, JavaScript, and React.
 
 ---
 
