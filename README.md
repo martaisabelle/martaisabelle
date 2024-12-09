@@ -6,7 +6,7 @@ I'm Marta Isabelle, a front-end developer passionate about creating modern, func
 
 ---
 
-### Linguagens e Tecnologias
+### Skills
 
 ![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white&style=for-the-badge)
@@ -15,7 +15,7 @@ I'm Marta Isabelle, a front-end developer passionate about creating modern, func
 
 ---
 
-### Links
+### Contacts
 
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:martaisatc@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/martaisabelle)
