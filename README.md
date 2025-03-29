@@ -2,7 +2,7 @@
 
 `Front-end Developer`
 
-I'm Marta Isabelle, a front-end developer passionate about creating modern, functional, and accessible web interfaces. I love turning ideas into amazing digital experiences using technologies like HTML, CSS, JavaScript, and React.
+I'm Marta Isabelle, a front-end developer, and I'm currently pursuing a Bachelor's degree in Science and Technology at UFRN. I'm passionate about creating modern, functional, and accessible web interfaces. I love turning ideas into amazing digital experiences using technologies like HTML, CSS, JavaScript, and React.
 
 ---
 
