@@ -2,7 +2,7 @@
 
 `Front-end Developer`
 
-I'm a front-end developer, and I'm currently pursuing a Bachelor's degree in Science and Technology at UFRN. I'm passionate about creating modern, functional, and accessible web interfaces. I love turning ideas into amazing digital experiences using technologies like HTML, CSS, JavaScript, and React.
+I'm a front-end developer driven by a passion for creating intuitive and accessible user experiences. I'm currently pursuing a Bachelor's degree in Science and Technology at UFRN. I enjoy collaborating, learning from others, and turning ideas into clean, purposeful interfaces. 
 
 ---
 
