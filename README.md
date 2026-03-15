@@ -8,11 +8,7 @@ I'm a frontend developer driven by a passion for creating intuitive and accessib
 
 ### Languages and Tools
 
- <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&style=for-the-badge&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&style=for-the-badge&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=333333" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&style=for-the-badge&logoColor=333333" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&style=for-the-badge&logoColor=white" alt="Node.js" />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&style=for-the-badge&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&style=for-the-badge&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=333333) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&style=for-the-badge&logoColor=333333) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&style=for-the-badge&logoColor=white)
   
 ---
 
