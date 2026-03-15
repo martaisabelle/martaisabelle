@@ -17,7 +17,7 @@ I'm a frontend developer driven by a passion for creating intuitive and accessib
 
 ### Contacts
 
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:dev.martcosta@outlook.com)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-005A9C?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:dev.martcosta@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/martaisabelle)
 
 <!--
