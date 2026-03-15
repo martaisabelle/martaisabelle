@@ -28,9 +28,18 @@ I'm a frontend developer driven by a passion for creating intuitive and accessib
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/martaisabelle)
 
 ---
-### 📊 GitHub Stats (Optional)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martaisabelle&layout=compact&theme=radical)
 
-![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martaisabelle&show_icons=true&theme=radical)
+---
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=seuusuario)
+
+---
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=martaisabelle&theme=radical)
+
+---
+![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2026-FF6D28?style=for-the-badge&logo=hacktoberfest&logoColor=white)
+
 <!--
 **martaisabelle/martaisabelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
