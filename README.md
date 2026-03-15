@@ -1,4 +1,5 @@
-# 👩‍💻 Marta Isabelle
+# <img src="boneco.gif" alt="👩‍💻" width="40" />
+Marta Isabelle
 
 `Frontend Developer`
 
@@ -8,15 +9,11 @@ I'm a frontend developer driven by a passion for creating intuitive and accessib
 
 ### Languages and Tools
 
-![HTML](https://img.shields.io/badge/-HTML5-ffffff?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/-CSS3-ffffff?style=flat-square&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/-React-ffffff?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-ffffff?style=flat-square&logo=node.js&logoColor=339933)
-![Git](https://img.shields.io/badge/-Git-ffffff?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=github&logoColor=181717)
-![Terminal](https://img.shields.io/badge/-Terminal-ffffff?style=flat-square&logo=windows-terminal&logoColor=000000)
-![Figma](https://img.shields.io/badge/-Figma-ffffff?style=flat-square&logo=figma&logoColor=F24E1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&style=for-the-badge&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&style=for-the-badge&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=333333)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&style=for-the-badge&logoColor=333333)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&style=for-the-badge&logoColor=white)
 
 ---
 
