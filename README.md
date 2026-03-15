@@ -1,6 +1,6 @@
 # 👩‍💻 Marta Isabelle
 
-`Front-end Developer`
+`Frontend Developer`
 
 I'm a frontend developer driven by a passion for creating intuitive and accessible user experiences. I'm currently pursuing a Bachelor's degree in Science and Technology at UFRN. I enjoy collaborating, learning from others, and turning ideas into clean, purposeful interfaces. 
 
