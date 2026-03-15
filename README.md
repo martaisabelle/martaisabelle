@@ -1,4 +1,4 @@
-# 👩‍💻 Marta Isabelle
+# Marta Isabelle
 
 `Frontend Developer`
 
