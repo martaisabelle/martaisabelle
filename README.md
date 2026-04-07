@@ -17,9 +17,6 @@ I'm a frontend developer driven by a passion for creating intuitive and accessib
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-005A9C?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:dev.martcosta@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/martaisabelle)
 
----
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martaisabelle&layout=compact&theme=radical&langs_count=6&hide_border=true)
-
 <!--
 **martaisabelle/martaisabelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
