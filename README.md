@@ -18,7 +18,7 @@ I'm a frontend developer driven by a passion for creating intuitive and accessib
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/martaisabelle)
 
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martaisabelle&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martaisabelle&layout=compact&theme=radical&langs_count=6&hide_border=true)
 
 <!--
 **martaisabelle/martaisabelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
