@@ -2,7 +2,7 @@
 
 `Full Stack Developer`
 
-I'm a full stack developer driven by a passion for creating intuitive and accessible user experiences. I'm currently pursuing a Bachelor's degree in Science and Technology at UFRN. I enjoy collaborating, learning from others, and turning ideas into clean, purposeful interfaces. 
+I'm a Full Stack Developer passionate about building modern web applications, from responsive user interfaces to scalable back-end APIs. I'm currently pursuing a Bachelor's degree in Science and Technology at UFRN and enjoy learning new technologies, solving problems, and creating clean, maintainable, and user-focused solutions.
 
 ---
 
