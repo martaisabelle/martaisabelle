@@ -13,6 +13,8 @@ I'm a frontend developer driven by a passion for creating intuitive and accessib
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=333333)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=for-the-badge&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&style=for-the-badge&logoColor=333333)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&style=for-the-badge&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&style=for-the-badge&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&style=for-the-badge&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&style=for-the-badge&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&style=for-the-badge&logoColor=white)
